@@ -1,6 +1,1 @@
 .idea
-
-back/.idea
-back/target
-back/src/main/resources/img/category/*
-back/src/main/resources/img/product/*
