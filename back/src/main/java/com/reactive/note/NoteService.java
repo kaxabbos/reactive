@@ -23,5 +23,4 @@ public class NoteService {
         return repository.save(note);
     }
 
-
 }
